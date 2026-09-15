@@ -297,7 +297,7 @@ customer, membership performance, income levels, occupations, and top
 customers. The analysis distinguishes between **segment contribution**
 and **individual customer value**.
 
-![Customer Performance](images/customer_performance.png)
+![Customer Performance](images/customer_performance_analysis.png)
 
 ## 3. Product & Brand Analytics
 
