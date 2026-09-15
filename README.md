@@ -288,7 +288,7 @@ Sales, Estimated Gross Profit, Estimated Gross Margin %, Active
 Customers, Aggregate Return Rate %, monthly trends, country performance,
 store-format performance, and top products.
 
-![Executive Overview](images/01_executive_overview.png)
+![Executive Overview](images/executive_overview.png)
 
 ## 2. Customer Performance Analytics
 
@@ -297,7 +297,7 @@ customer, membership performance, income levels, occupations, and top
 customers. The analysis distinguishes between **segment contribution**
 and **individual customer value**.
 
-![Customer Performance](images/02_customer_performance.png)
+![Customer Performance](images/customer_performance.png)
 
 ## 3. Product & Brand Analytics
 
@@ -305,7 +305,7 @@ Evaluates products sold, estimated sales and profitability, brand
 contribution, product rankings, brand ranking changes over time, and
 underperforming areas.
 
-![Product & Brand Analytics](images/03_product_brand_analytics.png)
+![Product & Brand Analytics](images/product_brand_analysis.png)
 
 ## 4. Store & Geographic Performance
 
@@ -314,7 +314,7 @@ rankings, store formats, Sales vs. Profit benchmarking, and
 country-level performance.
 
 ![Store & Geographic
-Performance](images/04_store_geographic_performance.png)
+Performance](images/store_geographic_performance_analysis.png)
 
 ## 5. Return Analytics
 
@@ -322,7 +322,7 @@ Analyzes Return Records, Returned Units, Estimated Return Value,
 Aggregate Return Rate %, product return concentration, monthly return
 patterns, and geographic return performance.
 
-![Return Analytics](images/05_return_analytics.png)
+![Return Analytics](images/return_analysis.png)
 
 ------------------------------------------------------------------------
 
