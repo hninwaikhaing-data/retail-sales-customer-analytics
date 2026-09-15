@@ -445,7 +445,7 @@ customer ID, or original transaction ID. Therefore:
 Retail-Sales-Customer-Performance-Analytics/
 │
 ├── data/
-│   └── README.md
+│   └── raw_data
 │
 ├── sql/
 │   ├── 01_database_setup.sql
@@ -460,11 +460,11 @@ Retail-Sales-Customer-Performance-Analytics/
 │   └── Retail_Sales_Customer_Performance_Analytics_Dashboard.pbix
 │
 ├── images/
-│   ├── 01_executive_overview.png
-│   ├── 02_customer_performance.png
-│   ├── 03_product_brand_analytics.png
-│   ├── 04_store_geographic_performance.png
-│   └── 05_return_analytics.png
+│   ├── executive_overview.png
+│   ├── customer_performance_analysis.png
+│   ├── product_brand_analysis.png
+│   ├── store_geographic_performance_analysis.png
+│   └── return_analysis.png
 │
 ├── docs/
 │   └── Retail_Analytics_Project_Documentation.pdf
